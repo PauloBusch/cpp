@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1518303949 source:c:\users\paulo\desktop\projetos\c++\array bidimensional\main.cpp
+	<iostream>
+	<stdlib.h>
+

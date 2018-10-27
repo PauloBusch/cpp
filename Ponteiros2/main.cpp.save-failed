@@ -1,0 +1,18 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int *p;
+    int vetor[10];
+    p=&vetor[0]; // p = vetor;
+
+    string veicolo = "Carro";
+    string *pv;
+    pv = veicolo;
+    cout << endl << *pv << "\n" << pv;
+    *pv="Moto";
+    cout << endl << *pv << "\n" << pv;
+    return 0;
+}

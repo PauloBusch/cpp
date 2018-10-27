@@ -1,0 +1,26 @@
+#include <iostream>
+#include <vector>
+using namespace std;
+
+int main()
+{
+    int x1,x2,x3,x4;
+    x1=1;
+    x2=1;
+    x3=1;
+    x4=1;
+    auto soma=[=]()->int{//auto soma=[x1,x2,x3,x4]()->int{
+        return x1+x2+x3+x4;
+    };
+        auto maior=[](vector<int>v)->int{
+        auto m=0;
+        for(int x:v){
+            m=(m>x)?m:x;
+        }
+        soma();
+        return m;
+    };
+    cout << maior({1,2,3,1,2,5,9,7,4,6,5}) << endl;
+    cout << "A soma e: " << soma() << endl;
+    return 0;
+}

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1518662793 source:c:\users\paulo\desktop\projetos\c++\operações com arquivos (ifstream)\main.cpp
+	<iostream>
+	<fstream>
+

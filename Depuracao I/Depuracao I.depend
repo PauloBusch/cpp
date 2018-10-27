@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1517242294 source:c:\users\paulo\desktop\projetos\c++\depuracao i\main.cpp
+	<iostream>
+	<stdlib.h>
+

@@ -1,0 +1,18 @@
+#include <iostream>
+#include <stdlib.h>
+#include <map>
+using namespace std;
+int main(){
+    map<int,string>prod;//map<int,string>prod;
+    //map['a']
+    prod[0]="Teclado";
+    prod[1]="Mouse";
+    prod[2]="Monitor";
+    prod[3]="CX.Som";
+    for(int i = 0; i < prod.size();i++){
+        cout << prod[i].second <<endl;
+    }
+
+    system("pause");
+    return 0;
+}

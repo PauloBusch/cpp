@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1520172094 source:c:\users\paulo\desktop\projetos\c++\encapsulamento\main.cpp
+	<iostream>
+	<memory>
+

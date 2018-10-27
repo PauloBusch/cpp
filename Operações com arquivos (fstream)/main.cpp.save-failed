@@ -1,0 +1,22 @@
+#include <iostream>
+#include <fstream>
+using namespace std;
+
+int main()
+{
+    fstream arquivo;
+    char opc = 's';
+    string nome;
+
+    arquivo.open("Teste de escrita",ios::out);
+
+    while((opc=='s')||(opc'S')){
+        cout << "Digite um nome: ";
+        cin >> nome;
+        arquivo << nome << "\n";
+        cout <<"\nDigitar novo nome [s/n]?\n";
+        cin >> opc;
+    }
+
+    return 0;
+}

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1518703827 source:c:\users\paulo\desktop\projetos\c++\operações com arquivos (fstream)\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+

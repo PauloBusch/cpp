@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1518633755 source:c:\users\paulo\desktop\projetos\c++\chamada de classe\main.cpp
+	<iostream>
+	"Carro.h"
+
+1518633792 c:\users\paulo\desktop\projetos\c++\chamada de classe\carro.h
+

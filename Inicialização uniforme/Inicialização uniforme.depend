@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1518721318 source:c:\users\paulo\desktop\projetos\c++\inicialização uniforme\main.cpp
+	<iostream>
+	<vector>
+	<map>
+

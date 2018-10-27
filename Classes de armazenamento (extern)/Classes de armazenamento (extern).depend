@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1518726253 source:c:\users\paulo\desktop\projetos\c++\classes de armazenamento (extern)\main.cpp
+	<iostream>
+	"Variaveis.h"
+
+1518726253 source:c:\users\paulo\desktop\projetos\c++\classes de armazenamento (extern)\auxiliar.cpp
+	<iostream>
+
+1518726029 c:\users\paulo\desktop\projetos\c++\classes de armazenamento (extern)\variaveis.h
+

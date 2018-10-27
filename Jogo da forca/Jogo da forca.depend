@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1518313787 source:c:\users\paulo\desktop\projetos\c++\jogo da forca\main.cpp
+	<iostream>
+	<stdlib.h>
+
